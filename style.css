@@ -22,7 +22,8 @@ body {
 
 #c{
     background-color: #B2EBF2;
-    border-color:#0097A7;
+    border-color:#0097A7;  
+    
 }
 #d{
     background-color: #80DEEA;
@@ -71,3 +72,5 @@ body {
 #b:hover{
     background-color:#0097F7;
 }
+
+$
