@@ -73,4 +73,12 @@ body {
     background-color:#0097F7;
 }
 
-$
+.bar {
+    background-color: lawngreen;
+    width:7px;
+    height:15px;
+    display: inline-block;
+    vertical-align: bottom;
+    padding: 3px;
+
+}
